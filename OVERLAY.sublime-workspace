@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"i",
+				"inline\tdisplay"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padin",
+				"padding-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"oe",
+				"order"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"font-he",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"LI",
+				"line-height"
+			],
+			[
+				"l",
+				"lower-latin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"t",
+				"translateX()"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tp",
+				"margin-top"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mn",
+				"min-height"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "control",
+		"selected_items":
+		[
+			[
+				"control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sarnoul1/Documents/CODE/GitHub/Overlay"
+	],
+	"file_history":
+	[
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/index_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/CSS/generalStyle.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Revlon/15349 - Almay CC/Production/02_Integration/code/RevlonAlmay.sublime-project",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Irving Tissue Corporation/14336 - Royale Annual/Stock Up and Dine out Wave 1/Production/02_Integration/overlay/css/styles.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Irving Tissue Corporation/14336 - Royale Annual/Stock Up and Dine out Wave 1/Production/02_Integration/overlay/ovrly_royal_stock_up_and_dine_out_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Irving Tissue Corporation/14336 - Royale Annual/Stock Up and Dine out Wave 1/Production/02_Integration/overlay/ovrly_royal_stock_up_and_dine_out_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Irving Tissue Corporation/14336 - Royale Annual/Stock Up and Dine out Wave 1/Production/02_Integration/overlay/ovrly_fromagerie_bel_laughingcow_gm_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Irving Tissue Corporation/14336 - Royale Annual/Stock Up and Dine out Wave 1/Production/02_Integration/overlay/ovrly_fromagerie_bel_babybel_gm_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/13675 - Chatr Brand Store/Production/03_Integration/code/Caroussel_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Pfizer/15392 - BTS Essentials/Production/02_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Pfizer/15392 - BTS Essentials/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Pfizer/15392 - BTS Essentials/Production/02_Integration/code/index_FR.html",
+		"/Applications/Adobe After Effects CC 2018/Adobe After Effects CC 2018.app/Contents/Resources/PresetEffects.xml",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Pfizer/15392 - BTS Essentials/Production/02_Integration/code/CSS/generalStyle.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Pfizer/15392 - BTS Essentials/Production/02_Integration/code/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Telus/15340 - Home Services BTS/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Telus/15340 - Home Services BTS/Production/02_Integration/code/index_FR.html",
+		"/Users/sarnoul1/Desktop/test/BUSTE/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ProgrammaticDynamicTemplates/BBh_Vendor_Campaign_Date/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ProgrammaticDynamicTemplates/SKY_Vendor_Campaign_Date/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ProgrammaticDynamicTemplates/BB_Vendor_Campaign_Date/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ProgrammaticDynamicTemplates/LB_Vendor_Campaign_Date/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ProgrammaticDynamicTemplates/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mars Canada/15137 - Nutro Dog and Cat/Production/02_Integration/code/CSS/generalStyle.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mars Canada/15137 - Nutro Dog and Cat/Production/02_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mars Canada/15137 - Nutro Dog and Cat/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mars Canada/15137 - Nutro Dog and Cat/Production/02_Integration/code/index_FR.html",
+		"/Users/sarnoul1/Documents/DynamicUnits/HTML_Units/GWD/ChurchDwight/BB_CD_OdourBlaster_20180503/feeds/studio_dynamic_remarketing.json",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Mars Canada/15137 - Nutro Dog and Cat/Production/02_Integration/code/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_laughingcow_gm_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_laughingcow_ghs_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_laughingcow_ghs_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_laughingcow_gm_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_babybel_ghs_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_babybel_gm_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_babybel_ghs_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_babybel_gm_f.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/css/styles.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_boursin_ghs_e.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Fromagerie Bel/15189 - Cheese Brandstore/02 - Laughing Cow and Babybel/Production/02_Integration/overlay/ovrly_fromagerie_bel_boursin_gm_e.html",
+		"/Users/sarnoul1/Documents/CODE/GitHub/Component-Video-Carousel/CSS/slick-theme.css",
+		"/Users/sarnoul1/Documents/CODE/GitHub/Component-Video-Carousel/index.html",
+		"/Users/sarnoul1/Documents/MARKETING/WMG/P&G Deck/L1_baby_page_NEW/demo.html",
+		"/Users/sarnoul1/Documents/CODE/GitHub/Component-Carousel/Component-Carousel.sublime-project",
+		"/Users/sarnoul1/Documents/CODE/NEW Carousel/index.html",
+		"/Users/sarnoul1/Documents/CODE/NEW Carousel/CSS/slick-theme.css",
+		"/Users/sarnoul1/Documents/CODE/NEW Carousel/CSS/style_en.css",
+		"/Users/sarnoul1/Documents/MARKETING/WMG/P&G Deck/L1_baby_page/demo.html",
+		"/Users/sarnoul1/Documents/CODE/NEW Carousel/CSS/style_content_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Canada Bread/15120 - Go Big Villaggio/Production/02_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Canada Bread/15120 - Go Big Villaggio/Production/02_Integration/code/index_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Canada Bread/15120 - Go Big Villaggio/Production/02_Integration/code/index_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Canada Bread/15120 - Go Big Villaggio/Production/02_Integration/code/CSS/generalStyle.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Canada Bread/15120 - Go Big Villaggio/Production/02_Integration/code/CSS/accordion.css",
+		"/Users/sarnoul1/Documents/CODE/GitHub/Component-Multi-Column-Cartridge/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/CSS/style_fr.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Documents/MARKETING/WMG/Animated_Banner/Huggies/fakePage_2.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/Fido_code_EN_NEW.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/Fido_code_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/Fido_code_FR_NEW.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/Fido_code_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/storeList.xml",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/JS/customCarousell.js",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/Fido.sublime-project",
+		"/Users/sarnoul1/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/sarnoul1/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Rogers Communications/14314 - Fido Brand Store/Production/03_Integration/code/CSS/generalStyle.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/13601-13685 - Koodo Launch and BTS/Production/03_Integration/code/Koodo_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code/main_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/codeFlex/main_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code slick/slick-1.8.0/index.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code slick/main_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code slick/slick-1.8.0/slick/slick-theme.css",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code slick/slick-1.8.0/slick/slick.js",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Bell Canada/14235 - Bell New Brand Launch/Production/02_Integration/untitled_EN.css",
+		"/Users/sarnoul1/Desktop/untitled.css",
+		"/Users/sarnoul1/Desktop/untitled_FR.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Bell Canada/14235 - Bell New Brand Launch/Production/02_Integration/store_FR.xml",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Bell Canada/14235 - Bell New Brand Launch/Production/02_Integration/store_EN.xml",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Bell Canada/14235 - Bell New Brand Launch/Production/02_Integration/store.xml",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14092 - Dixon Gold/14092 - Dixon Simply Launch/Production/02_Integration/main_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/code slick/slick-1.8.0/slick/slick.css",
+		"/Users/sarnoul1/Documents/DIVERS/RESSOURCES/JS/slick-1.8.0/index.html",
+		"/Users/sarnoul1/Downloads/ArrowNavigationStyles copy/css/component.css",
+		"/Users/sarnoul1/Downloads/ArrowNavigationStyles copy/index.html",
+		"/Users/sarnoul1/Downloads/ArrowNavigationStyles copy/css/demo.css",
+		"/Users/sarnoul1/Downloads/ArrowNavigationStyles/css/component.css",
+		"/Users/sarnoul1/Documents/DIVERS/RESSOURCES/JS/14ÖÖCSS½¹µãÍ¼¼ýÍ·µ¼º½¶¯»-Ð§¹û/index.html",
+		"/Users/sarnoul1/Documents/DIVERS/RESSOURCES/JS/14ÖÖCSS½¹µãÍ¼¼ýÍ·µ¼º½¶¯»-Ð§¹û/readme.html",
+		"/Users/sarnoul1/Documents/DIVERS/RESSOURCES/JS/3ÆÁÖ§³ÖµçÄÔºÍÊÖ»ú¶ËµÄ»ÃµÆÆ¬ÂÖ²¥´úÂë/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14062 - HA Kidd Silver Knitting/Production/02_Integration/main_code_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14062 - HA Kidd Silver Knitting/Production/02_Integration/main_code_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14062 - HA Kidd Silver Knitting/Production/02_Integration/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14062 - HA Kidd Silver Knitting/Production/02_Integration/CSS/style_fr.css",
+		"/private/var/folders/k1/hm9_n40s6955d0dk8m00lfkm0000gp/T/com.microsoft.Outlook/Outlook Temp/ATT00001.htm",
+		"/Users/sarnoul1/Documents/CODE/Code_Environment/codeFlex/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14152 - HG USA Gold/Production/02_Integration/main_code_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14061 - HA Kidd Silver Sewing/Production/02_Integration/main_code_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14090 - Spinrite Silver/Production/02_Integration/main_code_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14090 - Spinrite Silver/Production/02_Integration/CSS/style_fr.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14090 - Spinrite Silver/Production/02_Integration/main_code_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14090 - Spinrite Silver/Production/02_Integration/spinright.sublime-project",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/MULTI VENDOR PROGRAMS/CREATIVE SHOP/14090 - Spinrite Silver/Production/02_Integration/CSS/style_en.css",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/code/CarrierLogoEN.html",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/code/CarrierLogoFR.html",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/code/CSS/style_en.css",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/code/main_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/code/CarrierLogo.html",
+		"/Users/sarnoul1/Documents/CODE/CarrierLogo/CarrierLogoBar.sublime-project",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/Koodo_codeV2_EN.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/Koodo_codeV2_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/CSS/style_en.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/CSS/style_fr.css",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/Koodo_code_EN.html",
+		"/Users/sarnoul1/Documents/CODE/carousel/carousel.html",
+		"/Users/sarnoul1/Documents/CODE/carousel/carouselStyle.css",
+		"/Users/sarnoul1/Documents/CODE/carousel/carouselJS.js",
+		"/Users/sarnoul1/Downloads/OwlCarousel2-2.2.1/docs copy/demos/responsive.html",
+		"/Users/sarnoul1/Downloads/slick-1.8.0/index.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/Koodo_code_FR.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Koodo/13601-13685 - Koodo Annual Brandstore/Production/03_Integration/code/CSS/generalStyle.css",
+		"/Volumes/mon-share/SWAN_Backup/Tumbler Comps/Adaptive_Flash_Template_2/AdaptiveFlash_test.html",
+		"/Users/sarnoul1/Box Sync/Creative Services/Shopper Marketing/Vendor Coop/Creative/Danone/13981 - Activia Power/Production/03_Integration/legal.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OVERLAY.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 355.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
